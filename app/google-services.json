@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550463504199",
+    "project_id": "trabalho-pdm-a8459",
+    "storage_bucket": "trabalho-pdm-a8459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550463504199:android:f5b6aa11f7a52bc8161662",
+        "android_client_info": {
+          "package_name": "br.ifsp.pdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0tgwMa67vf4rmib_PGy7G1aUgcgbThM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
